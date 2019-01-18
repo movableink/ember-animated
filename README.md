@@ -1,3 +1,8 @@
+DO NOT DELETE THIS BRANCH `uy/ch19222/fix-for-ember-animated`!!!
+We are using this commit in the canvas repo.
+
+We should be able to go back to using ember-animated when this [PR](https://github.com/ember-animation/ember-animated/pull/62) gets merged.
+
 ember-animated
 ==============================================================================
 
